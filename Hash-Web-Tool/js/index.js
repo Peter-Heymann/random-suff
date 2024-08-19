@@ -1,3 +1,5 @@
+import sha256 from 'crypto-js'
+
 const password = reqire('password-gen-v1')
 
 const passwordWeak = password.newPassword(8)

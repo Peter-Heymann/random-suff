@@ -2,8 +2,8 @@
   "name": "hash-web-tool",
   "version": "1.0.0",
   "dependencies": {
-    "password-gen-v1": "^1.0.2",
-    "js-sha1": "^0.6.0"
+    "crypto-js": "^4.1.1",
+    "password-gen-v1": "^1.0.2"
   },
   "description": "Webtool for hashing password or other chars.",
   "main": "index.js",
